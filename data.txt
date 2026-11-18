@@ -1,0 +1,18 @@
+5
+aryan bhatt
+2 python sql
+abhay
+2 git sql
+nitya
+3 c java cpp
+prisha
+3 html css java
+Rohan 
+2 cpp teamwork
+3
+qa anaylst
+2 teamwork git
+programmer
+4 c java teamwork git
+web dev
+3 html css java
